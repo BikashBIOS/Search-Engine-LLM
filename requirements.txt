@@ -28,6 +28,7 @@ datasets
 tiktoken
 PyPDF2
 langchain_astradb
+pandas
 
 
 
